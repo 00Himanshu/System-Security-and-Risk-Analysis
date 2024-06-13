@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T06:41:57.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gv-wvHR7j9k7g3apUlfw" version="24.5.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-06-13T06:47:30.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="P0CbCAr5McrGCilD892B" version="24.5.3" type="github" pages="12">
   <diagram id="YlOzQZMVUzbt7353DlCQ" name="BPMN">
     <mxGraphModel dx="1368" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2291,7 +2291,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nPUYM5Gin6Byu76X2Qw4" name="Page-11">
-    <mxGraphModel dx="2868" dy="2645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="2399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2334,13 +2334,13 @@
         <mxCell id="xvEqWZGpyuxgQWdtacFL-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="460" y="-1169" width="1110" height="1160" as="geometry" />
         </mxCell>
-        <mxCell id="hTCSTK8zDJU_lC_KV1lS-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xvEqWZGpyuxgQWdtacFL-1" source="R0U1Uy1Sy9_FjLwV0gkV-6" target="iVwTvWbWt7mJj68jZ_ei-2">
+        <mxCell id="hTCSTK8zDJU_lC_KV1lS-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xvEqWZGpyuxgQWdtacFL-1" source="R0U1Uy1Sy9_FjLwV0gkV-6" target="iVwTvWbWt7mJj68jZ_ei-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R0U1Uy1Sy9_FjLwV0gkV-6" value="Exploit Wordpress xmlrpc to gain privliage&lt;div&gt;(CVE-2020-28036)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xvEqWZGpyuxgQWdtacFL-1">
           <mxGeometry x="248.1707317073171" y="870" width="171.46341463414635" height="90.625" as="geometry" />
         </mxCell>
-        <mxCell id="hTCSTK8zDJU_lC_KV1lS-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xvEqWZGpyuxgQWdtacFL-1" source="iVwTvWbWt7mJj68jZ_ei-1" target="iVwTvWbWt7mJj68jZ_ei-2">
+        <mxCell id="hTCSTK8zDJU_lC_KV1lS-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xvEqWZGpyuxgQWdtacFL-1" source="iVwTvWbWt7mJj68jZ_ei-1" target="iVwTvWbWt7mJj68jZ_ei-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="541.4634146341464" y="725" as="targetPoint" />
           </mxGeometry>
@@ -2354,7 +2354,7 @@
         <mxCell id="hTCSTK8zDJU_lC_KV1lS-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xvEqWZGpyuxgQWdtacFL-1" source="iVwTvWbWt7mJj68jZ_ei-2" target="iVwTvWbWt7mJj68jZ_ei-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iVwTvWbWt7mJj68jZ_ei-2" value="&lt;div&gt;&lt;b&gt;OR&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Gain Privilage on Ubuntu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="xvEqWZGpyuxgQWdtacFL-1">
+        <mxCell id="iVwTvWbWt7mJj68jZ_ei-2" value="&lt;div&gt;&lt;b&gt;OR&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Gain Privilage on Ubuntu&lt;div&gt;(CVE-2010-0834)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="xvEqWZGpyuxgQWdtacFL-1">
           <mxGeometry x="451.219512195122" y="643.4375" width="171.46341463414635" height="90.625" as="geometry" />
         </mxCell>
         <mxCell id="hTCSTK8zDJU_lC_KV1lS-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xvEqWZGpyuxgQWdtacFL-1" source="iVwTvWbWt7mJj68jZ_ei-3" target="iVwTvWbWt7mJj68jZ_ei-5">
@@ -2431,7 +2431,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yjfAm0L53kbh4Z4zlNkG-5" value="Update to latest stable versio of Ubuntu" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="xvEqWZGpyuxgQWdtacFL-1">
-          <mxGeometry x="857.3170731707318" y="661.5625" width="108.29268292682927" height="54.375" as="geometry" />
+          <mxGeometry x="739.9970731707317" y="661.5625" width="108.29268292682927" height="54.375" as="geometry" />
         </mxCell>
         <mxCell id="yjfAm0L53kbh4Z4zlNkG-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="xvEqWZGpyuxgQWdtacFL-1" source="yjfAm0L53kbh4Z4zlNkG-8" target="iVwTvWbWt7mJj68jZ_ei-3">
           <mxGeometry relative="1" as="geometry" />
